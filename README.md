@@ -1,1 +1,3 @@
 # crawl_TW_gov_report
+The government reports can be found on each local government's website, but these reports are also collected in this central gov's website: https://gaz.ncl.edu.tw/index.jsp
+And surprisingly, this website has the newest report updated almost at the same time as the local governments, while local govs doesn't keep their complete archives. Therefore, when needing any law- or policy-related things, go to this website.
